@@ -27,7 +27,7 @@ run control file in interactive window
   * سطح 5: سطح بولینگ گردو
 
 # Demo
-![demo1]([https://github.com/sajadbazra/game-python/blob/9ddae21ef9ac085515472359c234a97c80b1d9c8/demo/demo2.jpg])
+![demo1]([https://raw.githubusercontent.com/sajadbazra/game-python/refs/heads/main/demo/demo2.jpg])
 
 ![demo2]([https://raw.githubusercontent.com/sajadbazra/game-python/blob/main/demo/demo2.jpg])
 ![demo3]([https://raw.githubusercontent.com/sajadbazra/game-python/blob/main/demo/demo3.jpg])
