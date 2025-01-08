@@ -27,8 +27,8 @@ run control file in interactive window
   * سطح 5: سطح بولینگ گردو
 
 # Demo
-![demo1](https://raw.githubusercontent.com/sajadbazra/game-python/refs/heads/main/demo/demo1.jpg)
+![demo1](https://github.com/sajadbazra/game-python/blob/9b24e0248d7bc9651eeea5d5b9683052bc40db07/demo/demo1.jpg)
 
 ![demo2](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo2.jpg)
-![demo3]([https://raw.githubusercontent.com/sajadbazra/game-python/blob/main/demo/demo3.jpg])
+![demo3](https://github.com/sajadbazra/game-python/blob/9b24e0248d7bc9651eeea5d5b9683052bc40db07/demo/demo3.jpg)
 
