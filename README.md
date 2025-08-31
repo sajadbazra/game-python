@@ -14,9 +14,10 @@
 * Python-Pygame 1.9
 
 # چگونه بازی را شروع کنیم
-$ python main.py
-
-run control file in interactive window
+```bash
+python main.py
+```
+-run control file in interactive window
 
 # چگونه بازی کنیم
 *استفاده از ماوس برای جمع آوری خورشید، انتخاب کارت گیاه و دانه گیاه 
