@@ -32,3 +32,7 @@ run control file in interactive window
 ![demo2](https://github.com/sajadbazra/game-python/blob/9b24e0248d7bc9651eeea5d5b9683052bc40db07/demo/demo2.jpg)
 ![demo3](https://github.com/sajadbazra/game-python/blob/9b24e0248d7bc9651eeea5d5b9683052bc40db07/demo/demo3.jpg)
 
+---
+
+## امید وارم این پروژه براتون مفید بوده باشه
+### باتشکر از استاد محمدتقی صادقی
